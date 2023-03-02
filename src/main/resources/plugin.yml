@@ -1,0 +1,8 @@
+name: PlayerHeadsDrop
+version: '${project.version}'
+main: xyz.joscodes.playerheadsdrop.PlayerHeadDrops
+api-version: 1.13
+prefix: PlayerHeadDrops
+authors: [ Jos ]
+description: A simple plugin that makes it such that when a player dies, their head drops.
+website: https://joscodes.xyz/
